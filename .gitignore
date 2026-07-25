@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Trained models
+*.h5
+*.keras
+*.ckpt
+
+# TensorBoard logs
+logs/
+
+# OS files
+.DS_Store
