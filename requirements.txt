@@ -11,3 +11,6 @@ matplotlib>=3.10.9
 
 # Bioinformatics
 biopython>=1.87
+
+# Jupyter Notebook
+jupyter>=1.1.1
