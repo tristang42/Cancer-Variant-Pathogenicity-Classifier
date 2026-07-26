@@ -114,14 +114,29 @@ For a concise summary of the project's objectives, methodology, performance, bio
 
 Developed using **Python 3.11.4**
 
-```bash
-git clone <repository-url>
+Clone the repository:
 
-cd <repository>
+```bash
+git clone https://github.com/tristang42/Cancer-Variant-Pathogenicity-Classifier.git
+
+cd Cancer-Variant-Pathogenicity-Classifier
+
+python -m venv test_env
+
+# Windows PowerShell
+.\test_env\Scripts\Activate.ps1
 
 python -m pip install -r requirements.txt
 ```
+---
 
+## Running Notebooks 
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
 ---
 
 ## License
